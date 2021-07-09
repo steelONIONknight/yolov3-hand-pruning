@@ -1,0 +1,1 @@
+python normal_prune.py
