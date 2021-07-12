@@ -1,6 +1,6 @@
 # YOLOv3-hand-pruning
 
-本项目以[coldlarry](https://github.com/coldlarry/YOLOv3-complete-pruning)的项目为基础，像他们表示感谢！
+本项目以[coldlarry](https://github.com/coldlarry/YOLOv3-complete-pruning)的项目为基础，向他们表示感谢！
 
 具体配置参照[coldlarry](https://github.com/coldlarry/YOLOv3-complete-pruning)的配置。
 
